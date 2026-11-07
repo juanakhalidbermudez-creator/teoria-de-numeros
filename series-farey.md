@@ -14,7 +14,7 @@ Para que  $b$ sea un entero $$h'' - h = 1$$
 
 Ya que $h' '= b$ y $h< b$. $F_n$ se encuentra entre $0$ y $1$
  
-$h' '= 1 $ y $h = 0 $ 
+$h''= 1$ y $h = 0$ 
     
 Pero eso es $F_1$, incluso si $h' '= b$, $h \neq b$
 
