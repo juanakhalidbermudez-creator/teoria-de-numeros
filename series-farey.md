@@ -1,6 +1,6 @@
 Demostración encontrada con algo de ayuda antes de leer la de mi libro.
 
- $\frac{h}{k}$ and $\frac{h''}{k''}$ son dos términos sucesivos de $F_n$  por lo tanto $\frac{h}{k} < \frac{h''}{k''}$.
+ $\frac{h}{k}$ y $\frac{h''}{k''}$ son dos términos sucesivos de $F_n$  por lo tanto $\frac{h}{k} < \frac{h''}{k''}$.
 
 Suponer que tienen el mismo denominador $$k = k''= b$$ 
 
